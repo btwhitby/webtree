@@ -2,7 +2,6 @@ a10.htm#i15887||Aganetha //|About 1780||||
 a8.htm#i1306||Anna //||Polish-Lithuanian Commonwealth|Before 1802|Einlage, Chortitza, Ukraine|
 a7.htm#i1169813||Anna //|1764|Polish-Lithuanian Commonwealth|||
 a9.htm#i1666||Anna //|1737|Polish-Lithuanian Commonwealth|Before 1801|Einlage, Chortitza, Ukraine|
-a9.htm#i1169755||Catharina //|1716|Polish-Lithuanian Commonwealth|About 1772|Schoensee, Marienburg Region, Prussia|
 a9.htm#i1169754||Catharina //|About 1760|Polish-Lithuanian Commonwealth|1810|Molotschna Colony, Ukraine|
 a5.htm#i380||Chorlina //|||||
 a10.htm#i1466||Christina //|About 1700|Polish-Lithuanian Commonwealth|Before 1772|Schoensee, Marienburg Region, Prussia|
@@ -10,15 +9,16 @@ a13.htm#i1493||Ewertien //|||Before 1640|Danzig|
 a5.htm#i97||Helena //|1853|Ukraine|||
 a16.htm#i1377||Jan //|About 1480|Amsterdam, Netherlands|||
 a12.htm#i193||Janneke //|Before 1569||||
+a9.htm#i1169755||Katharina //|1716|Polish-Lithuanian Commonwealth|About 1772|Schoensee, Marienburg Region, Prussia|
 a7.htm#i34||Katharina //|About 1792||||
 a8.htm#i1169793||Katharina //|1762||||
-a9.htm#i1651||Katherina //|1734|Polish-Lithuanian Commonwealth|||
+a10.htm#i1668||Katherina //|1734|Polish-Lithuanian Commonwealth|||
 a13.htm#i1493||Maria //|||31 August 1669|Danzig|
 a7.htm#i226||Maria //|1779|Prussia|Before 1835|Burwalde, Chortitza, Ukraine|
 a9.htm#i292||Maria //|About 1736|Polish-Lithuanian Commonwealth|8 August 1801|Neuendorf, Chortitza, Ukraine|
 a8.htm#i615||Maria //|1775|Prussia||Neuendorf, Chortitza, Ukraine|
 a7.htm#i847||Maria //|1796||||
-a10.htm#i1190||NN //|||||
+a9.htm#i1142083||NN //|||||
 a8.htm#i1536||NN //|1728|Polish-Lithuanian Commonwealth|21 June 1784|Petershagen, Marienburg Region, Prussia|
 a7.htm#i34||NN //|Before 1741|Polish-Lithuanian Commonwealth|Before 1774|Prussia|
 a8.htm#i612||Susanna //|1762|Polish-Lithuanian Commonwealth|10 March 1802|Neuendorf, Chortitza, Ukraine|
@@ -42,7 +42,7 @@ a6.htm#i512|ABRAMS|Peter /ABRAMS/|1827||1874||
 a6.htm#i512|ABRAMS|Peter /ABRAMS/|22 February 1798|Schweingrube, Stuhm Lowlands, Prussia|8 November 1856|Neuenburg, Chortitza, Ukraine|
 a9.htm#i1613|ANDRES|Anna /ANDRES/|23 September 1756||26 November 1801||
 a8.htm#i131|ANDRES|Anna /ANDRES/|1764|Walldorf, Elbing Region, Polish-Lithuanian Commonwealth|6 March 1831|Rosenthal, Chortitza, Ukraine|
-a9.htm#i1613|ANDRES|Cornelius /ANDRES/||Walldorf, Elbing Region, Polish-Lithuanian Commonwealth|About 1762|Polish-Lithuanian Commonwealth|
+a10.htm#i1616|ANDRES|Cornelius /ANDRES/||Walldorf, Elbing Region, Polish-Lithuanian Commonwealth|About 1762|Polish-Lithuanian Commonwealth|
 a9.htm#i1613|ANDRES|Cornelius /ANDRES/|1760||||
 a7.htm#i138|ANDRES|Jakob /ANDRES/|1739|Powunden, Koenigsberg, Polish-Lithuanian Commonwealth|12 September 1809|Neuenburg, Chortitza, Ukraine|
 a7.htm#i138|ANDRES|Katharina /ANDRES/|1771|Polish-Lithuanian Commonwealth|November 1800|Neuenburg, Chortitza, Ukraine|
@@ -83,7 +83,7 @@ a9.htm#i533|BERGEN|Heinrich /BERGEN/|Before 1720|Polish-Lithuanian Commonwealth|
 a9.htm#i533|BERGEN|Heinrich /BERGEN/|1745||1812||
 a7.htm#i1309|BERGEN|Jacob /BERGEN/|Before 1808||||
 a9.htm#i533|BERGEN|Jacob /BERGEN/|14 February 1758|Leske, Marienburg Region, Polish-Lithuanian Commonwealth|29 October 1833|Schoenau, Marienburg Region, Prussia|
-a8.htm#i175|BERGEN|Maria /BERGEN/|3 February 1753|Leske, Marienburg Region, Polish-Lithuanian Commonwealth|About 1804|Schoenhorst, Chortitza, Ukraine|
+a9.htm#i175|BERGEN|Maria /BERGEN/|3 February 1753|Leske, Marienburg Region, Polish-Lithuanian Commonwealth|About 1804|Schoenhorst, Chortitza, Ukraine|
 a6.htm#i663|BERGEN|Maria /BERGEN/|10 September 1828|Neu-Osterwick, Chortitza, Ukraine|1878|Neu-Osterwick, Chortitza, Ukraine|
 a6.htm#i1197|BLATZ|Andres /BLATZ/|||||
 a6.htm#i1197|BLATZ|Maria /BLATZ/|30 July 1856|Ukraine|June 1903||
@@ -134,9 +134,9 @@ a7.htm#i120|DEVEER|Elizabeth /DEVEER/|24 December 1851||||
 a11.htm#i191|DEVEER|Giesbert /DEVEER/|About 1671|Danzig|30 August 1711|Danzig|
 a11.htm#i191|DEVEER|Gijsbert /DEVEER/|23 February 1640|Danzig|20 August 1693|Danzig|
 a12.htm#i193|DEVEER|Gijsbert /DEVEER/|7 November 1600|Amsterdam, Netherlands|16 February 1646|Poggenpfuhl, Danzig Region, Polish-Lithuanian Commonwealth|
+a13.htm#i208|DEVEER|Gijsbert /DEVEER/|14 May 1556|Schiedam, Netherlands|17 May 1615|Danzig|
 a15.htm#i874|DEVEER|Gijsbert /DEVEER/|Before 1501||||
 a12.htm#i193|DEVEER|Gysbert /DEVEER/|26 January 1626||23 December 1634||
-a13.htm#i208|DEVEER|Gysbert /DEVEER/|14 May 1556|Schiedam, Netherlands|17 May 1615|Danzig|
 a13.htm#i208|DEVEER|Hans /DEVEER/|About 1590|Danzig|||
 a13.htm#i208|DEVEER|Harman /DEVEER/|1602|Amsterdam, Netherlands||Amsterdam, Netherlands|
 a9.htm#i163|DEVEER|Heinrich /DEVEER/|9 October 1767|Polish-Lithuanian Commonwealth|Before 1795||
@@ -227,13 +227,13 @@ a8.htm#i848|DYCK|Abraham /DYCK/|About 1769|Lakendorf, Marienburg Region, Polish-
 a5.htm#i527|DYCK|Abraham /DYCK/|1886||||
 a6.htm#i1140|DYCK|Aganetha /DYCK/|14 August 1831||3 September 1905||
 a4.htm#i765|DYCK|Aganetha /DYCK/|1894||1950||
+a7.htm#i36|DYCK|Aganetha /DYCK/|About 1761|Polish-Lithuanian Commonwealth|Before 1835|Muntau, Molotschna, Ukraine|
 a8.htm#i833|DYCK|Aganetha /DYCK/|About 1761|Polish-Lithuanian Commonwealth|9 April 1810|Burwalde, Chortitza, Ukraine|
 a5.htm#i527|DYCK|Aganetha /DYCK/|1902||1902||
 a5.htm#i380|DYCK|Agatha /DYCK/|1 August 1895||23 August 1944||
 a8.htm#i848|DYCK|Agatha /DYCK/|1803||1803||
 a4.htm#i766|DYCK|Agatha /DYCK/|9 March 1859|Chortitza Colony, Ukraine|26 July 1922|Olgafeld, Fuerstenland, Ukraine|
 a5.htm#i527|DYCK|Agatha /DYCK/|1903||||
-a7.htm#i36|DYCK|Anganetha /DYCK/|About 1761|Polish-Lithuanian Commonwealth|Before 1835|Muntau, Molotschna, Ukraine|
 a6.htm#i1140|DYCK|Anna /DYCK/|About 1830||||
 a4.htm#i1169657|DYCK|Anna /DYCK/|30 May 1891|Reinland, Manitoba|12 August 1956|Saskatoon, Saskatchewan|
 a7.htm#i1169710|DYCK|Anna /DYCK/|1823||1823||
@@ -355,7 +355,6 @@ a5.htm#i98|DYCK|Sara /DYCK/|13 January 1852|Chortitza Colony, Ukraine|Before 191
 a6.htm#i68|DYCK|Susanna /DYCK/|Before 1803||23 April 1858|Burwalde, Chortitza, Ukraine|
 a4.htm#i765|DYCK|Wilhelm /DYCK/|1880||1955||
 a5.htm#i478|ENS|Anna /ENS/|1891||1981||
-a8.htm#i1453|ENS|Catharina /ENS/|1770|Polish-Lithuanian Commonwealth||Ukraine|
 a9.htm#i1454|ENS|Gerhard /ENS/|1779|Prussia|April 1801|Rosenthal, Chortitza, Ukraine|
 a10.htm#i1465|ENS|Gerhard /ENS/||Polish-Lithuanian Commonwealth|1792||
 a9.htm#i1454|ENS|Gertruda /ENS/|12 December 1760|Polish-Lithuanian Commonwealth|||
@@ -366,6 +365,7 @@ a4.htm#i205|ENS|Isaac /ENS/|3 January 1904||4 November 1978||
 a4.htm#i205|ENS|Jacob /ENS/|8 January 1897||30 March 1973||
 a10.htm#i396|ENS|Johann /ENS/|Before 1722|Danzig|25 September 1780|Danzig|
 a6.htm#i1197|ENS|Katharina /ENS/|||||
+a8.htm#i1453|ENS|Katharina /ENS/|1770|Polish-Lithuanian Commonwealth||Ukraine|
 a6.htm#i101|ENS|Maria /ENS/|Before 1822|Ukraine||Ukraine|
 a9.htm#i1454|ENS|Maria /ENS/|1765|Polish-Lithuanian Commonwealth|16 March 1789|Prussia|
 a9.htm#i1454|ENS|Martin /ENS/|1739|Polish-Lithuanian Commonwealth|About 1802|Rosenthal, Chortitza, Ukraine|
@@ -374,9 +374,9 @@ a9.htm#i1454|ENS|NN /ENS/|1774|Prussia|20 October 1789|Prussia|
 a10.htm#i1465|ENS|Peter /ENS/|About 1700|Polish-Lithuanian Commonwealth|Before 1772|Schoensee, Marienburg Region, Prussia|
 a9.htm#i1454|ENS|Susanna /ENS/|27 April 1787|Prussia|13 August 1822|Ukraine|
 a9.htm#i309|ENS|Susanna /ENS/|6 April 1742|Scharpau, Marienburg Region, Polish-Lithuanian Commonwealth|2 March 1803|Rosenthal, Chortitza, Ukraine|
+a10.htm#i1191|EPP|Aganetha /EPP/|About 1714|Danzig|11 December 1801|Neuendorf, Marienburg Region, Prussia|
 a8.htm#i1610|EPP|Aganetha /EPP/|1782|Prussia||Ukraine|
 a5.htm#i478|EPP|Agatha /EPP/|25 February 1896|Waldheim, Saskatchewan|8 June 1972|Waldheim, Saskatchewan|
-a10.htm#i1191|EPP|Agnetha /EPP/|About 1714|Danzig|11 December 1801|Neuendorf, Marienburg Region, Prussia|
 a10.htm#i15887|EPP|Anke /EPP/|13 February 1758|Neunhuben, Danzig Region, Polish-Lithuanian Commonwealth|22 January 1792|Neunhuben, Danzig Region, Prussia|
 a10.htm#i15887|EPP|Anke /EPP/|16 January 1752|Neunhuben, Danzig Region, Polish-Lithuanian Commonwealth|23 January 1754|Neunhuben, Danzig Region, Polish-Lithuanian Commonwealth|
 a9.htm#i12610|EPP|Anna /EPP/|23 December 1787|Prussia|13 January 1788|Prussia|
@@ -411,7 +411,7 @@ a5.htm#i478|EPP|Jacob /EPP/|24 May 1889|Fuerstenland Colony, Ukraine|15 March 19
 a9.htm#i12610|EPP|Johann /EPP/|March 1802|Neuenburg, Chortitza, Ukraine|27 May 1802|Neuenburg, Chortitza, Ukraine|
 a9.htm#i12610|EPP|Johann /EPP/|17 October 1804|Neuenburg, Chortitza, Ukraine|31 March 1880|Ukraine|
 a5.htm#i478|EPP|Johann /EPP/|27 September 1897||23 February 1978||
-a8.htm#i386|EPP|Johann /EPP/|11 November 1758||||
+a9.htm#i466|EPP|Johann /EPP/|11 November 1758||||
 a9.htm#i12610|EPP|Katharina /EPP/|15 May 1793|Prussia|18 February 1818|Ukraine|
 a5.htm#i478|EPP|Katharina /EPP/|18 July 1883|Fuerstenland Colony, Ukraine|22 March 1932|Eigenheim, Saskatchewan|
 a6.htm#i608|EPP|Katharina /EPP/|14 July 1858||12 April 1932||
@@ -538,7 +538,7 @@ a6.htm#i235|GIESBRECHT|Abram /GIESBRECHT/|1 December 1863||||
 a7.htm#i244|GIESBRECHT|Abram /GIESBRECHT/|10 December 1830|Bergthal Colony, Ukraine|27 December 1868|Ukraine|
 a8.htm#i386|GIESBRECHT|Cornelius /GIESBRECHT/|About 1797||||
 a9.htm#i498|GIESBRECHT|David /GIESBRECHT/|1750||Before 1802||
-a8.htm#i386|GIESBRECHT|David /GIESBRECHT/|1750|Neuteich, Marienburg Region, Polish-Lithuanian Commonwealth|About 1800|Schoenhorst, Chortitza, Ukraine|
+a9.htm#i466|GIESBRECHT|David /GIESBRECHT/|1750|Neuteich, Marienburg Region, Polish-Lithuanian Commonwealth|About 1800|Schoenhorst, Chortitza, Ukraine|
 a7.htm#i244|GIESBRECHT|Frans /GIESBRECHT/|15 March 1826||23 August 1859||
 a6.htm#i235|GIESBRECHT|Franz /GIESBRECHT/|28 September 1868||Before 1871||
 a6.htm#i235|GIESBRECHT|Franz /GIESBRECHT/|12 July 1871||||
@@ -587,7 +587,7 @@ a13.htm#i225|GRAUWERT|Maria /GRAUWERT/|About 1568|Klein Mausdorf, Marienburg Reg
 a4.htm#i1169659|GUEST|Charles /GUEST/|12 August||||
 a9.htm#i164|HABENSTEIN|Anna /HABENSTEIN/|1736|Polish-Lithuanian Commonwealth|After 1816|Neu-Osterwick, Chortitza, Ukraine|
 a4.htm#i1169659|HALL|Hilda May /HALL/|17 November 1919||2013||
-a8.htm#i1169720|HAMM|Anganetha /HAMM/|29 September 1765|Rosenort, Marienburg Region, Polish-Lithuanian Commonwealth|11 August 1838||
+a9.htm#i1169734|HAMM|Anganetha /HAMM/|29 September 1765|Rosenort, Marienburg Region, Polish-Lithuanian Commonwealth|11 August 1838||
 a7.htm#i34|HAMM|Anna /HAMM/|About 1794||||
 a8.htm#i485|HARDER|Abram /HARDER/|1792||||
 a6.htm#i236|HARDER|Abram /HARDER/|7 October 1825|Chortitza Colony, Ukraine|27 February 1887|Manitoba|
@@ -656,12 +656,12 @@ a8.htm#i584|JANZEN|Abraham /JANZEN/|1800||||
 a8.htm#i372|JANZEN|Anna /JANZEN/|About 1756|Plauschwarren, Lithuania|12 February 1807||
 a7.htm#i244|JANZEN|Anna /JANZEN/|8 July 1828||4 January 1849|Bergthal Colony, Ukraine|
 a8.htm#i585|JANZEN|Anna /JANZEN/|About 1760|Polish-Lithuanian Commonwealth|15 November 1822|Rosenthal, Chortitza, Ukraine|
-a10.htm#i1718|JANZEN|Catharina /JANZEN/|About 1670|Elbing, Polish-Lithuanian Commonwealth||Polish-Lithuanian Commonwealth|
-a10.htm#i325|JANZEN|Catharina /JANZEN/|About 1713|Polish-Lithuanian Commonwealth|2 September 1777||
 a11.htm#i1719|JANZEN|Claas /JANZEN/|About 1640|Wengeln, Elbing Region, Polish-LIthuanian Commonwealth||Polish-Lithuanian Commonwealth|
 a9.htm#i1333|JANZEN|Cornelius /JANZEN/|Before 1737|Polish-Lithuanian Commonwealth|Before 1781|Klein Holstein, Prussia|
 a9.htm#i291|JANZEN|Cornelius /JANZEN/|About 1757||April 1801|Neuenburg, Chortitza, Ukraine|
 a11.htm#i335|JANZEN|Jacob /JANZEN/|About 1668|Danzig|After 1727|Orlofferfelde, Marienburg Region, Polish-Lithuanian Commonwealth|
+a10.htm#i1718|JANZEN|Katharina /JANZEN/|About 1670|Elbing, Polish-Lithuanian Commonwealth||Polish-Lithuanian Commonwealth|
+a10.htm#i325|JANZEN|Katharina /JANZEN/|About 1713|Polish-Lithuanian Commonwealth|2 September 1777||
 a6.htm#i652|JANZEN|Maria /JANZEN/|||||
 a9.htm#i1333|JANZEN|Maria /JANZEN/|About 1767|Polish-Lithuanian Commonwealth|||
 a12.htm#i193|KAUENHOWEN|Cornelius /KAUENHOWEN/|7 June 1671|Danzig|28 March 1687|Danzig|
@@ -722,11 +722,11 @@ a7.htm#i138|KRAHN|Bernard /KRAHN/|1770|Klein Mausdorf, Marienburg Region, Polish
 a7.htm#i138|KRAHN|Bernhard /KRAHN/|18 April 1809|Burwalde, Chortitza, Ukraine|29 April 1809|Burwalde, Chortitza, Ukraine|
 a7.htm#i138|KRAHN|Bernhard /KRAHN/|10 April 1806|Burwalde, Chortitza, Ukraine|1806||
 a7.htm#i138|KRAHN|Catharina /KRAHN/|10 April 1806|Burwalde, Chortitza, Ukraine|1814|Burwalde, Chortitza, Ukraine|
+a6.htm#i556|KRAHN|Cornelius /KRAHN/|Before 1827|Rosenthal, Chortitza, Ukraine|||
 a6.htm#i556|KRAHN|Helena /KRAHN/|22 November 1851|Rosenthal, Chortitza, Ukraine|2 July 1896|Rosengart, Chortitza, Ukraine|
 a8.htm#i131|KRAHN|Johann /KRAHN/|Before 1736|Neustadterwald, Elbing Region, Polish-Lithuanian Commonwealth|Before 1784|Neustadterwald, Elbing Region, Prussia|
 a8.htm#i131|KRAHN|Johann /KRAHN/|1763|Walldorf, Elbing Region, Polish-Lithuanian Commonwealth|Before 1811|Rosenthal, Chortitza, Ukraine|
 a5.htm#i541|KRAHN|Katharina /KRAHN/|||||
-a6.htm#i556|KRAHN|Kornelius /KRAHN/|Before 1827|Rosenthal, Chortitza, Ukraine|||
 a6.htm#i227|KRAHN|Margaretha /KRAHN/|1803|Burwalde, Chortitza, Ukraine|13 June 1855|Schoenhorst, Chortitza, Ukraine|
 a7.htm#i138|KRAHN|Maria /KRAHN/|1797|Burwalde, Chortitza, Ukraine|||
 a5.htm#i391|KRAHN|Maria /KRAHN/|15 September 1848|Rosenthal, Chortitza, Ukraine|23 January 1916|Rosthern, Saskatchewan|
@@ -784,8 +784,8 @@ a6.htm#i1600|MARTENS|Anna /MARTENS/|||||
 a8.htm#i372|MARTENS|Aron /MARTENS/|1756|Polish-Lithuanian Commonwealth|23 January 1801|Schoenwiese, Chortitza, Ukraine|
 a8.htm#i372|MARTENS|Jetchen /MARTENS/|10 June 1788|Prussia|13 September 1840|Chortitza Colony, Ukraine|
 a8.htm#i579|MARTENS|Julius /MARTENS/|||||
-a8.htm#i372|MARTENS|Sara /MARTENS/|1761|Plauschwarren, Lithuania|About 1806|Schoenwiese, Chortitza, Ukraine|
-a8.htm#i372|MARTENS|Wilhelm /MARTENS/|Before 1736|Tilsit, Lithuania|1773|Plauschwarren, Lithuania|
+a9.htm#i376|MARTENS|Sara /MARTENS/|1761|Plauschwarren, Lithuania|About 1806|Schoenwiese, Chortitza, Ukraine|
+a9.htm#i376|MARTENS|Wilhelm /MARTENS/|Before 1736|Tilsit, Lithuania|1773|Plauschwarren, Lithuania|
 a4.htm#i1169659|MCCLOUD|Faye Sheila /McCLOUD/|||||
 a2.htm#i10|MCELLIGOTT|Mark /McELLIGOTT/|||||
 a3.htm#i8|MICHAYLUK|Edward /MICHAYLUK/|23 June 1933||4 February 2003|Saskatoon, Saskatchewan|
@@ -833,7 +833,7 @@ a7.htm#i134|NICKEL|Maria /NICKEL/|25 December 1792|Prussia|5 March 1863|Ukraine|
 a9.htm#i1645|NICKEL|Peter /NICKEL/|Before 1720|Treul, Schwetz, Polish-Lithuanian Commonwealth|||
 a9.htm#i1645|NICKEL|Peter /NICKEL/|1740|Treul, Schwetz, Polish-Lithuanian Commonwealth|||
 a7.htm#i383|NIEBUHR|Helena /NIEBUHR/|1799||||
-a12.htm#i845|NIKLASSEN|Elizabeth /NIKLASSEN/|Before 1617||31 August 1669|Danzig|
+a12.htm#i845|NIKLASSEN|Elisabeth /NIKLASSEN/|Before 1617||31 August 1669|Danzig|
 a9.htm#i433|OLFERT|Helena /OLFERT/|8 August 1805|Schoenhorst, Chortitza, Ukraine|11 December 1891|Schoenhorst, Chortitza, Ukraine|
 a13.htm#i208|PASCH|Catharina /PASCH/|||Before 1652|Danzig|
 a8.htm#i896|PAULS|Anna /PAULS/|About 1731|Polish-Lithuanian Commonwealth|||
@@ -892,7 +892,7 @@ a6.htm#i534|PETERS|Helena /PETERS/|2 September 1866||26 August 1926||
 a7.htm#i1304|PETERS|Jacob /PETERS/|23 November 1776|Leske, Marienburg Region, Polish-Lithuanian Commonwealth|||
 a6.htm#i534|PETERS|Jacob /PETERS/|About 1871||||
 a7.htm#i1304|PETERS|Johann /PETERS/|1805|Nieder Chortitza, Chortitza, Ukraine|||
-a8.htm#i174|PETERS|Johann /PETERS/|24 April 1754|Ladekopp, Marienburg Region, Polish-Lithuanian Commonwealth|9 January 1826|Schoenhorst, Chortitza, Ukraine|
+a9.htm#i174|PETERS|Johann /PETERS/|24 April 1754|Ladekopp, Marienburg Region, Polish-Lithuanian Commonwealth|9 January 1826|Schoenhorst, Chortitza, Ukraine|
 a6.htm#i534|PETERS|Justina /PETERS/|About 1867||||
 a8.htm#i174|PETERS|Katarina /PETERS/|28 November 1778|Leske, Marienburg Region, Polish-Lithuanian Commonwealth|About 1810||
 a8.htm#i1169741|PETERS|Katharina /PETERS/|1755|Polish-Lithuanian Commonwealth|||
@@ -961,6 +961,7 @@ a7.htm#i617|REGEHR|Maria /REGEHR/|7 February 1806|Neuendorf, Chortitza, Ukraine|
 a9.htm#i1169754|REGEHR|Martin /REGEHR/|1778|Schoensee, Marienburg Region, Prussia|||
 a9.htm#i1169754|REGEHR|Michael /REGEHR/|1752|Schoensee, Marienburg Region, Polish-Lithuanian Commonwealth|||
 a8.htm#i612|REGEHR|Peter /REGEHR/|1793|Prussia|Before 1799|Neuendorf, Chortitza, Ukraine|
+a10.htm#i1169866|REGEHR|Peter /REGEHR/|4 October 1669|Herrenhagen, Marienburg Region, Polish-Lithuanian Commonwealth|28 February 1722|Polish-Lithuanian Commonwealth|
 a8.htm#i612|REGEHR|Peter /REGEHR/|2 February 1799|Neuendorf, Chortitza, Ukraine|8 December 1840|Chortitza Colony, Ukraine|
 a8.htm#i612|REGEHR|Peter /REGEHR/|1751|Schoensee, Marienburg Region, Polish-Lithuanian Commonwealth||Chortitza Colony, Ukraine|
 a10.htm#i1069|REIMER|Ancke /REIMER/|About 1693|Danzig|13 March 1757|Danzig|
@@ -977,7 +978,7 @@ a8.htm#i417|REMPEL|Anna /REMPEL/|1790||||
 a8.htm#i224|REMPEL|Bernhard /REMPEL/|6 September 1805|||Neu-Osterwick, Chortitza, Ukraine|
 a9.htm#i784|REMPEL|Bernhard /REMPEL/|3 February 1763|Petershagen, Marienburg Region, Polish-Lithuanian Commonwealth|1854|Schoenhorst, Chortitza, Ukraine|
 a6.htm#i652|REMPEL|Catharina /REMPEL/|4 March 1851||2 March 1920||
-a10.htm#i1541|REMPEL|Christine /REMPEL/|Before 1721|Polish-Lithuanian Commonwealth|||
+a10.htm#i1541|REMPEL|Christina /REMPEL/|Before 1721|Polish-Lithuanian Commonwealth|||
 a9.htm#i784|REMPEL|Cornelius /REMPEL/|1772||1816||
 a6.htm#i652|REMPEL|David /REMPEL/|26 July 1870||19 January 1876||
 a5.htm#i27|REMPEL|David /REMPEL/|1864|Ukraine|1922|Ukraine|
@@ -1001,7 +1002,7 @@ a8.htm#i1649|REMPEL|Isbrand /REMPEL/|16 June 1799|Ukraine|2 June 1890||
 a6.htm#i652|REMPEL|Jacob /REMPEL/|25 July 1854||27 April 1938||
 a7.htm#i133|REMPEL|Johann /REMPEL/|21 January 1821||14 September 1846||
 a8.htm#i417|REMPEL|Johann /REMPEL/|15 October 1815||11 March 1892||
-a7.htm#i558|REMPEL|Johann /REMPEL/|||1847|Neuenburg, Chortitza, Ukraine|
+a6.htm#i552|REMPEL|Johann /REMPEL/|||1847|Neuenburg, Chortitza, Ukraine|
 a8.htm#i1649|REMPEL|Judith /REMPEL/|1811|Rosenthal, Chortitza, Ukraine|||
 a6.htm#i551|REMPEL|Judith /REMPEL/|12 December 1832|Chortitza, Chortitza, Ukraine||Rosenthal, Chortitza, Ukraine|
 a8.htm#i417|REMPEL|Katarina /REMPEL/|1801||||
@@ -1113,11 +1114,12 @@ a4.htm#i113|SCHAPANSKY|Sarah /SCHAPANSKY/|12 October 1904|Warman, Saskatchewan|1
 a6.htm#i57|SCHAPANSKY|Susanna /SCHAPANSKY/|12 December 1830||6 January 1831||
 a6.htm#i57|SCHAPANSKY|Susanna /SCHAPANSKY/|7 August 1834||||
 a6.htm#i57|SCHAPANSKY|Susanna /SCHAPANSKY/|13 November 1826||13 November 1826||
+a10.htm#i1169867|SCHELLENBERG|Katharina /SCHELLENBERG/|About 1670|Polish-Lithuanian Commonwealth|After 1716|Polish-Lithuanian Commonwealth|
 a5.htm#i760|SCHELLENBERG|Margaretha /SCHELLENBERG/|6 November 1837|Kronsthal, Chortitza, Ukraine|September 1914|Georgstal, Fuerstenland, Ukraine|
 a8.htm#i267|SCHMIDT|Helena /SCHMIDT/|||||
 a11.htm#i1070|SCHROEDER|Herman /SCHROEDER/||Elbing, Polish-Lithuanian Commonwealth|||
 a12.htm#i872|SCHROEDER|Liesbetje /SCHROEDER/|About 1670|Danzig|4 December 1703|Danzig|
-a7.htm#i1286|SCHULZ|Agata /SCHULZ/|1771|Altendorf, Marienburg Region, Polish-Lithuanian Commonwealth||Lichtenau, Molotschna, Ukraine|
+a7.htm#i1286|SCHULZ|Agatha /SCHULZ/|1771|Altendorf, Marienburg Region, Polish-Lithuanian Commonwealth||Lichtenau, Molotschna, Ukraine|
 a8.htm#i1169773|SCHULZ|Benjamin /SCHULZ/|About 1774|Altendorf, Marienburg Region, Prussia|||
 a8.htm#i1169773|SCHULZ|Hermann /SCHULZ/|1730||1781|Altendorf, Marienburg Region, Prussia|
 a8.htm#i1169773|SCHULZ|Thomas /SCHULZ/|About 1764|Altendorf, Marienburg Region, Polish-Lithuanian Commonwealth|||
@@ -1218,12 +1220,12 @@ a5.htm#i760|TEICHROEB|Katharina /TEICHROEB/|5 December 1878|Schoenhorst, Chortit
 a7.htm#i34|TEICHROEB|Kornelius /TEICHROEB/|8 October 1778|Kalthof, Marienburg Region, Prussia|8 October 1778|Kalthof, Marienburg Region, Prussia|
 a1.htm#i1|TEICHROEB|Leah /TEICHROEB/|||||
 a3.htm#i8|TEICHROEB|Louis /TEICHROEB/|25 March 1933||||
-a8.htm#i423|TEICHROEB|Margareta /TEICHROEB/|10 August 1773|Krebsfeld, Elbing Region, Prussia|July 1841|Chortitza Colony, Ukraine|
+a8.htm#i423|TEICHROEB|Margaretha /TEICHROEB/|10 August 1773|Krebsfeld, Elbing Region, Prussia|July 1841|Chortitza Colony, Ukraine|
 a5.htm#i760|TEICHROEB|Margaretha /TEICHROEB/|11 February 1862||6 January 1887||
 a4.htm#i765|TEICHROEB|Margaretha /TEICHROEB/|16 February 1886|Olgafeld, Fuerstenland, Ukraine|29 April 1978|Rosthern, Saskatchewan|
 a5.htm#i760|TEICHROEB|Maria /TEICHROEB/|23 July 1873|Schoenhorst, Chortitza, Ukraine|||
 a4.htm#i765|TEICHROEB|Maria /TEICHROEB/|3 October 1880|Olgafeld, Fuerstenland, Ukraine|1949|Saskatoon, Saskatchewan|
-a10.htm#i1169793|TEICHROEB|Michael /TEICHROEB/|Before 1720|Polish-Lithuanian Commonwealth|||
+a8.htm#i1169793|TEICHROEB|Michael /TEICHROEB/|Before 1720|Polish-Lithuanian Commonwealth|||
 a7.htm#i34|TEICHROEB|Michael /TEICHROEB/|Before 1741|Marienburg Region, Polish-Lithuanian Commonwealth|Before 1803|Prussia|
 a2.htm#i10|TEICHROEB|Peter /TEICHROEB/|3 August 1929|Warman, Saskatchewan|||
 a8.htm#i1169793|TEICHROEB|Peter /TEICHROEB/|About 1751|Marienburg Region, Polish-Lithuanian Commonwealth|||
@@ -1277,7 +1279,7 @@ a3.htm#i8|VOGT|Katharina /VOGT/|24 May 1876|Neuendorf, Chortitza, Ukraine|1963|S
 a13.htm#i208|VON BARGEN|Emerentia /VON BARGEN/|||||
 a12.htm#i193|VON BUYGEN|Anna /VON BUYGEN/|8 June 1589||15 February 1627||
 a12.htm#i193|VON BUYGEN|NN /VON BUYGEN/|Before 1569||||
-a9.htm#i432|VON DYCK|Cristina /VON DYCK/|30 May 1731|Krebsfeld, Elbing Region, Polish-Lithuanian Commonwealth|12 January 1786|Petershagen, Marienburg Region, Prussia|
+a9.htm#i432|VON DYCK|Christina /VON DYCK/|30 May 1731|Krebsfeld, Elbing Region, Polish-Lithuanian Commonwealth|12 January 1786|Petershagen, Marienburg Region, Prussia|
 a11.htm#i1070|VON DYCK|Gert /VON DYCK/|||||
 a11.htm#i1070|VON DYCK|Marike /VON DYCK/|About 1688|Danzig|23 July 1709|Danzig|
 a10.htm#i1394|VON NIESSEN|Susanna /VON NIESSEN/|About 1740|Polish-Lithuanian Commonwealth|||
@@ -1285,8 +1287,8 @@ a9.htm#i291|VON RIESEN|Abraham /VON RIESEN/|||||
 a13.htm#i1493|VON ROY|Anthonius /VON ROY/|About 1560||||
 a12.htm#i1491|VON ROY|Johann /VON ROY/|About 1635|Elbing, Polish-Lithuanian Commonwealth|April 1720|Elbing, Polish-Lithuanian Commonwealth|
 a13.htm#i1493|VON ROY|Johann /VON ROY/|1589|Danzig|||
-a11.htm#i192|VON ROY|Katarina /VON ROY/|1639|Elbing, Polish-Lithuanian Commonwealth|27 October 1718|Danzig|
 a13.htm#i1493|VON ROY|Katharina /VON ROY/|1588|Danzig|||
+a11.htm#i192|VON ROY|Katharina /VON ROY/|1639|Elbing, Polish-Lithuanian Commonwealth|27 October 1718|Danzig|
 a12.htm#i193|VON ROY|Magdalena /VON ROY/|About 1637|Danzig|10 March 1683|Danzig|
 a13.htm#i1493|VON ROY|Peter /VON ROY/|About 1600|Danzig|3 September 1667|Danzig|
 a12.htm#i193|VON ROY|Peter /VON ROY/|1644|Elbing, Polish-Lithuanian Commonwealth|6 December 1698|Neugarten, Danzig Region, Polish-Lithuanian Commonwealth|
@@ -1300,7 +1302,7 @@ a8.htm#i833|WARKENTIN|Jacob /WARKENTIN/|1782|Prussia|||
 a8.htm#i833|WARKENTIN|Phillip /WARKENTIN/|1783|Prussia|||
 a10.htm#i1618|WARKENTIN|Sara /WARKENTIN/|||||
 a7.htm#i352|WEDEL|Susanna /WEDEL/|About 1822||About 1880||
-a9.htm#i1603|WIEBE|Anna /WIEBE/|||||
+a10.htm#i1618|WIEBE|Anna /WIEBE/|||||
 a9.htm#i1663|WIEBE|Heinrich /WIEBE/|1744|Polish-Lithuanian Commonwealth|||
 a9.htm#i1663|WIEBE|Heinrich /WIEBE/|1782|Prussia|||
 a8.htm#i1650|WIEBE|Helena /WIEBE/|1772|Prussia|1852|Chortitza Colony, Ukraine|
@@ -1308,7 +1310,7 @@ a4.htm#i765|WIEBE|Jacob /WIEBE/|||||
 a5.htm#i541|WIEBE|Katharina /WIEBE/|||||
 a8.htm#i1169815|WIEBE|Magdalena /WIEBE/|January 1720|Polish-Lithuanian Commonwealth|5 May 1801|Prussia|
 a7.htm#i1169797|WIEBE|Margaretha /WIEBE/|Before 1763|Polish-Lithuanian Commonwealth|||
-a9.htm#i526|WIEBE|Margaretha /WIEBE/|Before 1753|Polish-Lithuanian Commonwealth|Before 1784|Krebsfeld, Elbing Region, Prussia|
+a9.htm#i526|WIEBE|Margaretha /WIEBE/|1736|Polish-Lithuanian Commonwealth|17 December 1781|Krebsfeld, Elbing Region, Prussia|
 a5.htm#i541|WIEBE|Maria /WIEBE/|||||
 a10.htm#i1849|WIELER|/WIELER/|Before 1720||||
 a8.htm#i584|WIELER|Anna /WIELER/|2 September 1791|Rosenthal, Chortitza, Ukraine|9 April 1798||
@@ -1325,7 +1327,6 @@ a8.htm#i584|WIELER|Maria /WIELER/|4 January 1785||17 February 1865||
 a8.htm#i584|WIELER|Nicholas /WIELER/|1760|Rehwalde, Marienburg Region, Polish-Lithuanian Commonwealth|23 January 1810|Rosenthal, Chortitza, Ukraine|
 a8.htm#i584|WIELER|Nicholas /WIELER/|1809||||
 a8.htm#i821|WIENS|Aganetha /WIENS/|About 1794||||
-a10.htm#i15890|WIENS|Catharina /WIENS/|12 November 1730|Nassehuben, Danzig Region, Polish-Lithuanian Commonwealth|6 January 1776|Danzig|
 a9.htm#i1698|WIENS|David /WIENS/|Before 1776|Prussia|||
 a9.htm#i820|WIENS|Gerhard /WIENS/|Before 1748|Polish-Lithuanian Commonwealth|Before 1789|Prussia|
 a8.htm#i821|WIENS|Gerhard /WIENS/|About 1769|Polish-Lithuanian Commonwealth|Before 1806|Neuenburg, Chortitza, Ukraine|
@@ -1334,6 +1335,7 @@ a9.htm#i820|WIENS|Heinrich /WIENS/|About 1768|Polish-Lithuanian Commonwealth|182
 a11.htm#i15888|WIENS|Hendrich /WIENS/|About 1738|Danzig|||
 a10.htm#i1396|WIENS|Jacob /WIENS/|||||
 a11.htm#i332|WIENS|Johanna /WIENS/|2 January 1682|Markushof, Elbing Region, Polish-Lithuanian Commonwealth|2 September 1777|Schidlitz, Danzig Region, Prussia|
+a10.htm#i15890|WIENS|Katharina /WIENS/|12 November 1730|Nassehuben, Danzig Region, Polish-Lithuanian Commonwealth|6 January 1776|Danzig|
 a7.htm#i1471|WIENS|Maria /WIENS/|||||
 a11.htm#i15885|WIENS|Maria /WIENS/|24 November 1742||24 December 1808||
 a7.htm#i474|WIENS|Maria /WIENS/|1796|Ukraine|3 December 1863|Bergthal Colony, Ukraine|
@@ -1350,7 +1352,7 @@ a11.htm#i1070|WOELKE|Abraham /WOELKE/|About 1689|Danzig|||
 a10.htm#i41774|WOELKE|Ancke /WOELKE/|About 1723|Danzig|25 June 1775|Danzig|
 a10.htm#i41774|WOELKE|Cornelius /WOELKE/|About 1698|Danzig|6 May 1756|Danzig|
 a11.htm#i1070|WOELKE|Elscke /WOELKE/|About 1698|Danzig|||
-a10.htm#i12623|WOELKE|Elscke /WOELKE/|About 1729|Danzig|10 June 1764|Danzig|
+a9.htm#i12623|WOELKE|Elscke /WOELKE/|About 1729|Danzig|10 June 1764|Danzig|
 a11.htm#i1070|WOELKE|Jacob /WOELKE/|About 1692|Danzig|||
 a11.htm#i1070|WOELKE|Saerke /WOELKE/|About 1688|Danzig|||
 a11.htm#i1070|WOELKE|Wiebe /WOELKE/|About 1654|Danzig|3 November 1720|Danzig|
